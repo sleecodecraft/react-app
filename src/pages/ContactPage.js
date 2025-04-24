@@ -32,10 +32,10 @@ const ContactPage = () => {
         </Col>
       </Row>
       <Row className="row-content">
-        <Col xs='12'>
-        <h2>Send Us Your Feedback</h2>
+        <Col xs="12">
+          <h2>Send Us Your Feedback</h2>
         </Col>
-        <Col md='10'>
+        <Col md="10">
           <ContactForm />
         </Col>
       </Row>
